@@ -16,10 +16,10 @@ La aplicación se puede compilar como:
 + Java JDK
 + Jade
 
-### ¿Cómo compilar la aplicación java desde la terminal?**
+### ¿Cómo compilar la aplicación java desde la terminal?
 
 $ javac Test.java 
 
-### ¿Cómo lanzar/ejecutar la aplicación java desde la terminal?**
+### ¿Cómo lanzar/ejecutar la aplicación java desde la terminal?
 
 $ java Test 
