@@ -12,6 +12,7 @@ La aplicación se puede compilar como:
 
 ***Observación:* no se utilizó ninguna **IDE** (e.g. eclipse, neetneans, ...). Bajo esta inteligencia para el desarrollo, se utilizó:
 
++ Bash terminal
 + Editor vim
 + Java JDK
 + Jade
@@ -23,3 +24,11 @@ $ javac Test.java
 ### ¿Cómo lanzar/ejecutar la aplicación java desde la terminal?
 
 $ java Test 
+
+### ¿Cómo compilar el agente desde la terminal?
+
+$ javac -cp ~/DEVx/jade/lib/jade.jar:. GSLRAgent.java  
+
+### ¿Cómo lanzar/ejecutar 🚡el agente desde la terminal?
+
+$ java -cp ~/DEVx/jade/lib/jade.jar:. jade.Boot -gui slrAgent:GSLRAgent
