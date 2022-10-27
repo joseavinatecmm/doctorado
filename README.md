@@ -10,8 +10,9 @@ La aplicación se puede compilar como:
 + Una aplicación convencional de Java; a través de la Clase Test.java
 + Un Agente para lo cual se requiere descargar la plataforma de Jade
 
-***Observación:* no se utilizó ninguna **IDE** (e.g. eclipse, neetneans, ...). Bajo esta inteligencia para el desarrollo, se utilizó:
+**Observación:** no se utilizó ninguna **IDE** (e.g. eclipse, neetneans, ...). Bajo esta inteligencia el ambiente de desarrollo consistió en:
 
++ macOS Monterey
 + Bash terminal
 + Editor vim
 + Java JDK
