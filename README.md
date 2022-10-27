@@ -30,6 +30,6 @@ $ java Test
 
 $ javac -cp ~/DEVx/jade/lib/jade.jar:. GSLRAgent.java  
 
-### ¿Cómo lanzar/ejecutar 🚡el agente desde la terminal?
+### ¿Cómo lanzar/ejecutar el agente desde la terminal?
 
 $ java -cp ~/DEVx/jade/lib/jade.jar:. jade.Boot -gui slrAgent:GSLRAgent
